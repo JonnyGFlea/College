@@ -1,0 +1,5 @@
+Private Access Specifier: by default all class members are private. we can access those members only within the class. we cannot access from out side of the class. But there is a possibility to access the private class members(data members & methods) from out-side class is possible only through the methods which are declared in public.  It provides security to the class members. Usually the data members are written in private section.
+
+Public Access Specifier:  The members which are declared as public can access from any where means within the class or out-side class is possible. But is possible to access class members from outside class through scope resolution operator ( :: ).  Usually the methods are declared in public.  
+
+Protected Specifier:  Most probably protected just like private, but we can see the effect of protected variable in multi-level inheritance.  those members which are declared in protected will be protected up to the next level after that those becomes private.
