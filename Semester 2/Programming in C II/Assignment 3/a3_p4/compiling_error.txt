@@ -1,0 +1,16 @@
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C II/Assignment 3/a3_p4/use_linked_list.c:38:21: error: use of undeclared identifier 'linked_list'
+          my_list = linked_list.push_back(my_list, inputD);
+                    ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C II/Assignment 3/a3_p4/use_linked_list.c:43:21: error: use of undeclared identifier 'linked_list'
+          my_list = linked_list.push_front(my_list, inputD);
+                    ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C II/Assignment 3/a3_p4/use_linked_list.c:47:21: error: use of undeclared identifier 'linked_list'
+          my_list = linked_list.remove_front(my_list);
+                    ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C II/Assignment 3/a3_p4/use_linked_list.c:51:11: error: use of undeclared identifier 'linked_list'
+          linked_list.print_list(my_list);
+          ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C II/Assignment 3/a3_p4/use_linked_list.c:55:11: error: use of undeclared identifier 'linked_list'
+          linked_list.free_list(my_list);
+          ^
+5 errors generated.
