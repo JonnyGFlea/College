@@ -1,0 +1,8 @@
+In file included from /Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 4/testLinkedList.cpp:9:
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 4/LinkedList.h:140:16: error: no member named 'elements' in 'double_linked<int>'
+  return this->elements;
+         ~~~~  ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 4/testLinkedList.cpp:26:46: note: in instantiation of member function 'double_linked<int>::getNumEntries' requested here
+  cout << "Number of elements are: " << list.getNumEntries(arr) << endl;
+                                             ^
+1 error generated.

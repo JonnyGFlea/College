@@ -1,0 +1,40 @@
+//CH08-320201
+//Problem a2.p1.c and d
+//Jonathan Rittmayer
+//jo.rittmayer@jacobs-university.de
+//
+//  Questions
+//
+//  (c) (4 points) How do the different values of k change the best-, average-, and worst-case
+//    asymptotic time complexities for this variant? Explain/prove your answer.
+//
+//  (d) (2 points) Based on the results from (b) and (c), how would you choose k in practice? Briefly
+//    explain
+
+//
+// Answers
+//
+//  (c) Different values of k do not change the Best- because Best- run time is independent from k.
+//      Different values of k do change the Worst- and Average- at different growth rates but they
+//      have the same growth pattern
+//
+//      This happens due to the way insertion sort works;
+//        Regular merge sort run time is Theta(nlog) and in this case
+//        Theta(nlogn + k^2). This change of run time is because of
+//        insertion sorts Average- run time being Theta(n^2)
+//
+//        Best- of insertion sort is Omega(n). Since the Best- of our
+//        version of the merge sort will be the same as the Best- of insertion sort,
+//        the run time of the base case of our version is Omega(nlogn + k).
+//      No matter how big k becomes, it will always have the possibility that k <= n
+//      Thus, we leave that term out and conclude the Best- running time is Omega(nlogn)
+//
+//      For the Average- and Worst-, the run time jumps significantly due to k.
+//      When k is smaller, the term nlogn dominates and we "omit" K^2.
+//      However, as K grows, the term K^2 becomes dominant and we cannot omit it.
+//
+//
+//  (d) Choosing the smallest K possible would be the best choice.
+//      When K << n, the run time doesn't really vary from the normal merge sort,
+//      which has a better run time than the insertion sort itself.
+//

@@ -1,0 +1,19 @@
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 1/testComplex.cpp:89:30: error: no matching function for call to 'array_search'
+  cout << "float array: " << array_search(d1, 3, b) << endl;
+                             ^~~~~~~~~~~~
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 1/testComplex.cpp:34:5: note: candidate template ignored: deduced conflicting types for parameter 'T' ('float' vs. 'int')
+int array_search(T A[], int totalElements, T a);
+    ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 1/testComplex.cpp:90:31: error: no matching function for call to 'array_search'
+  cout << "string array: " << array_search(d2, 3, c) << endl;
+                              ^~~~~~~~~~~~
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 1/testComplex.cpp:34:5: note: candidate template ignored: deduced conflicting types for parameter 'T' ('std::__1::basic_string<char>' vs. 'int')
+int array_search(T A[], int totalElements, T a);
+    ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 1/testComplex.cpp:91:31: error: no matching function for call to 'array_search'
+  cout << "double array: " << array_search(d3, 3, a) << endl;
+                              ^~~~~~~~~~~~
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 2/Problem 1/testComplex.cpp:34:5: note: candidate template ignored: deduced conflicting types for parameter 'T' ('double' vs. 'int')
+int array_search(T A[], int totalElements, T a);
+    ^
+3 errors generated.

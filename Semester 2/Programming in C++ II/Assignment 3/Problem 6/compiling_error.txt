@@ -1,0 +1,7 @@
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 3/Problem 6 *Not Done*/pqueue.cpp:23:17: error: no member named 'emplace' in 'std::__1::priority_queue<int, std::__1::vector<int, std::__1::allocator<int> >, std::__1::less<int> >'
+  examplePQueue.emplace(10);
+  ~~~~~~~~~~~~~ ^
+/Users/jonathan/Desktop/Computer Programming/Second Semester/Programming in C++ II/Assignment 3/Problem 6 *Not Done*/pqueue.cpp:24:17: error: no member named 'emplace' in 'std::__1::priority_queue<int, std::__1::vector<int, std::__1::allocator<int> >, std::__1::less<int> >'
+  examplePQueue.emplace(11);
+  ~~~~~~~~~~~~~ ^
+2 errors generated.
