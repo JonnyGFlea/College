@@ -54,6 +54,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,48 +70,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EqualArrayIndexTest.test">
-    <configuration name="AbbreviatorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ValidateTests">
+    <configuration name="RainfallTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kata" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AbbreviatorTests" />
+      <option name="MAIN_CLASS_NAME" value="RainfallTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualArrayIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RowSumOddNumbersTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kata" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EqualArrayIndexTest" />
+      <option name="MAIN_CLASS_NAME" value="RowSumOddNumbersTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualArrayIndexTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SignChangeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kata" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EqualArrayIndexTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kata" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="MAIN_CLASS_NAME" value="SignChangeTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignChangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TwoToOneTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kata" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SignChangeTest" />
+      <option name="MAIN_CLASS_NAME" value="TwoToOneTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ValidateTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EqualArrayIndexTest.test" />
-        <item itemvalue="JUnit.EqualArrayIndexTest" />
-        <item itemvalue="JUnit.OrderTest" />
-        <item itemvalue="JUnit.SignChangeTest" />
-        <item itemvalue="JUnit.AbbreviatorTests" />
+        <item itemvalue="JUnit.ValidateTests" />
+        <item itemvalue="JUnit.TwoToOneTests" />
+        <item itemvalue="JUnit.SignChangeTests" />
+        <item itemvalue="JUnit.RowSumOddNumbersTests" />
+        <item itemvalue="JUnit.RainfallTests" />
       </list>
     </recent_temporary>
   </component>
@@ -139,28 +141,12 @@
       <workItem from="1572791234960" duration="21171000" />
       <workItem from="1573453214473" duration="170000" />
       <workItem from="1573454100964" duration="61000" />
-      <workItem from="1573454197715" duration="4354000" />
+      <workItem from="1573454197715" duration="7333000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/RowSumOddNumbers.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/RowSumOddNumbers.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>

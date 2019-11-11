@@ -1,6 +1,14 @@
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: Shivo
+ *    Title: Equal Sides Of An Array
+ *    Availability: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+ *
+ ***************************************************************************************/
+
 import static org.junit.Assert.*;
-        import java.util.ArrayList;
-        import org.junit.Test;
+import org.junit.Test;
 
 
 public class EqualArrayIndexTest {

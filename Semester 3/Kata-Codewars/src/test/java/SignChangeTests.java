@@ -1,10 +1,16 @@
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: kdmatrosov
+ *    Title: Plus - minus - plus - plus - ... - Count
+ *    Availability: https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca
+ *
+ ***************************************************************************************/
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.junit.runners.JUnit4;
 
-// TODO: Replace examples and use TDD development by writing your own tests
-
-public class SignChangeTest {
+public class SignChangeTests {
     @Test
     public void basicTest() {
         assertEquals(0, SignChange.signChange(new int[] {1, 3, 4, 5}));

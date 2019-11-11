@@ -1,8 +1,16 @@
-import org.junit.jupiter.api.Test;
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: g964
+ *    Title: Maximum Length Difference
+ *    Availability: https://www.codewars.com/kata/maximum-length-difference/java
+ *
+ ***************************************************************************************/
 
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class MaxDiffLengthTest {
+public class MaxDiffLengthTests {
 
     @Test
     public void test1() {

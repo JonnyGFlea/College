@@ -1,8 +1,16 @@
 import org.junit.jupiter.api.Test;
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: g964
+ *    Title: Rainfall
+ *    Availability: https://www.codewars.com/kata/56a32dd6e4f4748cc3000006
+ *
+ ***************************************************************************************/
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class RainfallTest {
+public class RainfallTests {
     public static String data =
             "Rome:Jan 81.2,Feb 63.2,Mar 70.3,Apr 55.7,May 53.0,Jun 36.4,Jul 17.5,Aug 27.5,Sep 60.9,Oct 117.7,Nov 111.0,Dec 97.9" +
                     "\n" +
@@ -59,20 +67,20 @@ public class RainfallTest {
     @Test
     public void test1() {
         System.out.println("Fixed Tests: mean data");
-        assertFuzzyEquals(Rainfall.mean("London", RainfallTest.data), 51.199999999999996);
-        assertFuzzyEquals(Rainfall.mean("Beijing", RainfallTest.data), 52.416666666666664);
+        assertFuzzyEquals(Rainfall.mean("London", RainfallTests.data), 51.199999999999996);
+        assertFuzzyEquals(Rainfall.mean("Beijing", RainfallTests.data), 52.416666666666664);
     }
 
     @Test
     public void test2() {
         System.out.println("Fixed Tests: variance data");
-        assertFuzzyEquals(Rainfall.variance("London", RainfallTest.data), 57.42833333333374);
-        assertFuzzyEquals(Rainfall.variance("Beijing", RainfallTest.data), 4808.37138888889);
+        assertFuzzyEquals(Rainfall.variance("London", RainfallTests.data), 57.42833333333374);
+        assertFuzzyEquals(Rainfall.variance("Beijing", RainfallTests.data), 4808.37138888889);
     }
 
     @Test
     public void test3() {
         System.out.println("Fixed Tests: variance data");
-        assertFuzzyEquals(Rainfall.mean("America", RainfallTest.data), -1);
+        assertFuzzyEquals(Rainfall.mean("America", RainfallTests.data), -1);
     }
 }

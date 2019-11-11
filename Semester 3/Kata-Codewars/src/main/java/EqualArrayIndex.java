@@ -1,3 +1,12 @@
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: Shivo
+ *    Title: Equal Sides Of An Array
+ *    Availability: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+ *
+ ***************************************************************************************/
+
 import java.util.stream.IntStream;
 
 public class EqualArrayIndex {

@@ -1,3 +1,12 @@
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: xDranik
+ *    Title: Valid Braces
+ *    Availability: https://www.codewars.com/kata/5277c8a221e209d3f6000b56
+ *
+ ***************************************************************************************/
+
 public class BraceChecker {
 
     public boolean isValid(String braces) {

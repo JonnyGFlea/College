@@ -1,8 +1,17 @@
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: iamstone
+ *    Title: Your order, please
+ *    Availability: https://www.codewars.com/kata/55c45be3b2079eccff00010f
+ *
+ ***************************************************************************************/
+
 import static org.junit.Assert.*;
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.*;
 
-public class OrderTest {
+public class OrderTests {
     @Test
     public void test1() {
         assertThat(Order.order("is2 Thi1s T4est 3a"), equalTo("Thi1s is2 3a T4est"));

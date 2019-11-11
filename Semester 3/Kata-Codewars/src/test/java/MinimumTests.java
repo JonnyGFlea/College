@@ -1,8 +1,16 @@
-import org.junit.jupiter.api.Test;
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: MrZizoScream
+ *    Title: Form The Minimum
+ *    Availability: https://www.codewars.com/kata/5ac6932b2f317b96980000ca
+ *
+ ***************************************************************************************/
 
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class MinimumTest {
+public class MinimumTests {
     @Test
     public void testSomething() {
         assertEquals(13, Minimum.minValue(new int[]{1, 3, 1}));

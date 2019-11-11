@@ -1,10 +1,17 @@
-import org.junit.jupiter.api.Test;
+/***************************************************************************************
+ *
+ *    Codewars question Created By:
+ *    Author: dcieslak
+ *    Title: Alphabet war - airstrike - letters massacre
+ *    Availability: https://www.codewars.com/kata/5938f5b606c3033f4700015a
+ *
+ ***************************************************************************************/
 
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.runners.JUnit4;
 
-public class SampleTests {
+public class AlphabetWarAirstrikeTests {
 
     @Test
     public void MassacreTest() {
