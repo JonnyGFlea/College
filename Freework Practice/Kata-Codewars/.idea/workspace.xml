@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69230620-97b6-4bcf-8019-49706763564f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bowling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DeleteExtraOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DifferentiatePolynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DigitalRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DirectionSimplify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HighScoreWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OddDash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PCPartsLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PiedPiper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RoundToFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SplitCamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SplitIntoParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SquareRootCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WordReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ZooHierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BowlingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DeleteExtraOccurrencesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DescendingOrderTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DifferentiatePolynomialTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DigitalRootTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DirectionSimplifyTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindOddTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HighScoreWordsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OddDashTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PCPartsLeftTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PiedPiperTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RoundToFiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SplitCamelCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SplitIntoPartsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SquareRootCheckTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TimeFormatterTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WordReverseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ZooHierarchyTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TimeByAngle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TimeByAngle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TimeByAngleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TimeByAngleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimeByAngle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TimeByAngle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TimeByAngleTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TimeByAngleTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TSWtdSTKfPmzuGq9fecRxXHSj1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RoundToFiveTest.basicTests">
+    <configuration name="DeleteExtraOccurrencesTests.deleteNth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeleteExtraOccurrencesTests" />
+      <option name="METHOD_NAME" value="deleteNth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoundToFiveTest.basicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RoundToFiveTest" />
+      <option name="METHOD_NAME" value="basicTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitIntoPartsTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SplitIntoPartsTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRootCheckTests.shouldWorkForSomeExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SquareRootCheckTests" />
+      <option name="METHOD_NAME" value="shouldWorkForSomeExamples" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeFormatterTests.exampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TimeFormatterTests" />
+      <option name="METHOD_NAME" value="exampleTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoundToFiveTest.basicTests" />
+        <item itemvalue="JUnit.SplitIntoPartsTests.test" />
+        <item itemvalue="JUnit.DeleteExtraOccurrencesTests.deleteNth" />
+        <item itemvalue="JUnit.TimeFormatterTests.exampleTests" />
+        <item itemvalue="JUnit.SquareRootCheckTests.shouldWorkForSomeExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69230620-97b6-4bcf-8019-49706763564f" name="Default Changelist" comment="" />
+      <created>1572337165627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572337165627</updated>
+      <workItem from="1572337168980" duration="15495000" />
+      <workItem from="1572472128278" duration="92000" />
+      <workItem from="1572791234960" duration="21171000" />
+      <workItem from="1573453214473" duration="170000" />
+      <workItem from="1573454100964" duration="61000" />
+      <workItem from="1573454197715" duration="7333000" />
+      <workItem from="1573463245250" duration="20427000" />
+      <workItem from="1574058923580" duration="161000" />
+      <workItem from="1574064089249" duration="22775000" />
+      <workItem from="1579142055198" duration="124000" />
+      <workItem from="1579142223723" duration="10000" />
+      <workItem from="1579142246679" duration="20000" />
+      <workItem from="1579142684369" duration="51000" />
+      <workItem from="1579143803277" duration="4591000" />
+      <workItem from="1579376025975" duration="7440000" />
+      <workItem from="1579501882434" duration="29246000" />
+      <workItem from="1579593587006" duration="23311000" />
+      <workItem from="1579875974982" duration="6158000" />
+      <workItem from="1581587658254" duration="531000" />
+      <workItem from="1582191888196" duration="940000" />
+      <workItem from="1582811590734" duration="3872000" />
+      <workItem from="1583238557028" duration="1923000" />
+      <workItem from="1583401555360" duration="7000" />
+      <workItem from="1584012499429" duration="936000" />
+      <workItem from="1584559359245" duration="133000" />
+      <workItem from="1584693307211" duration="5058000" />
+      <workItem from="1585212472815" duration="12250000" />
+      <workItem from="1585902351067" duration="977000" />
+      <workItem from="1586416727974" duration="512000" />
+      <workItem from="1587375989579" duration="335000" />
+      <workItem from="1590679925448" duration="321000" />
+      <workItem from="1590748760356" duration="89000" />
+      <workItem from="1591079224656" duration="321000" />
+      <workItem from="1591088215527" duration="569000" />
+      <workItem from="1591597416349" duration="1492000" />
+      <workItem from="1592400599581" duration="765000" />
+      <workItem from="1592478254405" duration="4051000" />
+      <workItem from="1593678895555" duration="1936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1336" y="-95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593681136052">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state x="-1336" y="-95" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681136052" />
+    <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585224303213">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585224303213" />
+    <state x="-1063" y="40" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593681135171">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state x="-1063" y="40" key="#com.intellij.ide.util.TreeClassChooserDialog/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681135171" />
+    <state x="656" y="324" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1585220122455">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="656" y="324" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585220122455" />
+    <state width="1558" height="260" key="GridCell.Tab.0.bottom" timestamp="1593681261952">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.0.bottom/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261952" />
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678670" />
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.23.1680.920@0.23.1680.920" timestamp="1585235738847" />
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.23.1680.925@0.23.1680.925" timestamp="1591598617465" />
+    <state width="1558" height="260" key="GridCell.Tab.0.center" timestamp="1593681261951">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.0.center/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261951" />
+    <state width="1638" height="314" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678669" />
+    <state width="1638" height="314" key="GridCell.Tab.0.center/0.23.1680.920@0.23.1680.920" timestamp="1585235738845" />
+    <state width="1638" height="314" key="GridCell.Tab.0.center/0.23.1680.925@0.23.1680.925" timestamp="1591598617463" />
+    <state width="1558" height="260" key="GridCell.Tab.0.left" timestamp="1593681261950">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.0.left/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261950" />
+    <state width="1638" height="314" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678668" />
+    <state width="1638" height="314" key="GridCell.Tab.0.left/0.23.1680.920@0.23.1680.920" timestamp="1585235738843" />
+    <state width="1638" height="314" key="GridCell.Tab.0.left/0.23.1680.925@0.23.1680.925" timestamp="1591598617460" />
+    <state width="1558" height="260" key="GridCell.Tab.0.right" timestamp="1593681261952">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.0.right/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261952" />
+    <state width="1638" height="314" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678670" />
+    <state width="1638" height="314" key="GridCell.Tab.0.right/0.23.1680.920@0.23.1680.920" timestamp="1585235738846" />
+    <state width="1638" height="314" key="GridCell.Tab.0.right/0.23.1680.925@0.23.1680.925" timestamp="1591598617464" />
+    <state width="1558" height="260" key="GridCell.Tab.1.bottom" timestamp="1593681261955">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.1.bottom/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261955" />
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678673" />
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.23.1680.920@0.23.1680.920" timestamp="1585235738851" />
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.23.1680.925@0.23.1680.925" timestamp="1591598617863" />
+    <state width="1558" height="260" key="GridCell.Tab.1.center" timestamp="1593681261954">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.1.center/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261954" />
+    <state width="1638" height="314" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678671" />
+    <state width="1638" height="314" key="GridCell.Tab.1.center/0.23.1680.920@0.23.1680.920" timestamp="1585235738849" />
+    <state width="1638" height="314" key="GridCell.Tab.1.center/0.23.1680.925@0.23.1680.925" timestamp="1591598617860" />
+    <state width="1558" height="260" key="GridCell.Tab.1.left" timestamp="1593681261953">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.1.left/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261953" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678671" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left/0.23.1680.920@0.23.1680.920" timestamp="1585235738848" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left/0.23.1680.925@0.23.1680.925" timestamp="1591598617859" />
+    <state width="1558" height="260" key="GridCell.Tab.1.right" timestamp="1593681261955">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state width="1558" height="260" key="GridCell.Tab.1.right/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593681261955" />
+    <state width="1638" height="314" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591599678672" />
+    <state width="1638" height="314" key="GridCell.Tab.1.right/0.23.1680.920@0.23.1680.920" timestamp="1585235738850" />
+    <state width="1638" height="314" key="GridCell.Tab.1.right/0.23.1680.925@0.23.1680.925" timestamp="1591598617862" />
+    <state x="328" y="106" key="SettingsEditor" timestamp="1585216140749">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585216140749" />
+    <state x="608" y="334" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593678937840">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1021" y="79" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1592400656857" />
+    <state x="608" y="334" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593678937840" />
+    <state x="-1119" y="-7" width="670" height="580" key="search.everywhere.popup" timestamp="1593682454657">
+      <screen x="-1600" y="-207" width="1600" height="900" />
+    </state>
+    <state x="-1119" y="-7" width="670" height="580" key="search.everywhere.popup/-1600.-207.1600.900/0.0.1680.1050@-1600.-207.1600.900" timestamp="1593682454657" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585225560813" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TimeByAngle.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/HighScoreWords.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OddDash.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DigitalRoot.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DifferentiatePolynomial.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DifferentiatePolynomial.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PiedPiper.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DirectionSimplify.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/WordReverse.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DescendingOrder.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DeleteExtraOccurrences.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DeleteExtraOccurrences.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kata$BowlingTests_exampleTests.ic" NAME="BowlingTests.exampleTests Coverage Results" MODIFIED="1579377607370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

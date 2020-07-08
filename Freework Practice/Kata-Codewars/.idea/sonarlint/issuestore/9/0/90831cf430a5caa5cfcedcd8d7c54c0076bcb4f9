@@ -1,0 +1,23 @@
+
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+P
+java:S1854":Remove this useless assignment to local variable "length".(½àá§
+A
+java:S1481"+Remove this unused "length" local variable.(½àá§
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(õ¯æÎşÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(£äì§üÿÿÿÿ
+?
+java:S1659")Declare "timeThrough" on a separate line.(ÜÙ½
+?
+java:S1659")Declare "indexHolder" on a separate line.(ÜÙ½
+;
+java:S1659"%Declare "counter" on a separate line.(ÜÙ½
